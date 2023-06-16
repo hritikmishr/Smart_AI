@@ -1,0 +1,34 @@
+PS D:\okc\Downloads\project_openai_codex-main> node -v
+
+PS D:\okc\Downloads\project_openai_codex-main> npm create vite@latest client --template vanilla  
+
+PS D:\okc\Downloads\project_openai_codex-main> cd ./client/ 
+
+PS D:\okc\Downloads\project_openai_codex-main\client> npm install
+
+PS D:\okc\Downloads\project_openai_codex-main\client> npm run dev
+
+PS D:\okc\Downloads\project_openai_codex-main\server> npm init -y
+
+PS D:\okc\Downloads\project_openai_codex-main\server> npm install cors dotenv express nodemon openai
+
+PS D:\okc\Downloads\project_openai_codex-main\server> npm run server   
+
+github deployement
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git init
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git add .
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git commit -m "first commit"
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git branch -M main
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git remote add origin https://github.com/OmkarCode/SmartAI.git
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git push -u origin main
+
+
+git remote rm origin
+
+git remote add origin https://github.com/OmkarCode/SearchAI.git
